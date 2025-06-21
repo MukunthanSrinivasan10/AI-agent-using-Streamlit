@@ -10,11 +10,11 @@ import io # For handling image bytes
 # --- API Key Configuration ---
 # IMPORTANT: Replace "YOUR_GROQ_API_KEY" with your actual Groq API Key.
 # It's recommended to set this as an environment variable (e.g., GROQ_API_KEY)
-groq_api_key = "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" # <<<--- REPLACE THIS WITH YOUR ACTUAL GROQ API KEY ---<<<
+groq_api_key = "YOURGROKIAPIKEY" # <<<--- REPLACE THIS WITH YOUR ACTUAL GROQ API KEY ---<<<
 
 # IMPORTANT: Replace "YOUR_GEMINI_API_KEY" with your actual Gemini API Key.
 # This is required for image understanding features.
-gemini_api_key = "AIzaSyBY1vd37s6OG-h2A8RzJj9ARkWDEa6rBbI" # <<<--- REPLACE THIS WITH YOUR ACTUAL GEMINI API KEY ---<<<
+gemini_api_key = "YOURGEMINIAPIKEY" # <<<--- REPLACE THIS WITH YOUR ACTUAL GEMINI API KEY ---<<<
 
 
 # --- Initialize Groq Client ---
